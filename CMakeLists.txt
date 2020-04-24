@@ -14,6 +14,7 @@ aux_source_directory(test/ DIR_SRCS)
 add_subdirectory(skylu)
 add_executable(Demo tests/test.cc)
 target_link_libraries(Demo pthread yaml-cpp skylu)
+##
 
 include_directories(${PROJECT_SOURCE_DIR}/skylu) #添加头文件的搜索路径 也就是-I
 SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)  #可执行文件的输出路径
