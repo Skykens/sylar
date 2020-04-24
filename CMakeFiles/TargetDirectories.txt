@@ -1,0 +1,4 @@
+/home/lusky/sylar-master/CMakeFiles/rebuild_cache.dir
+/home/lusky/sylar-master/CMakeFiles/edit_cache.dir
+/home/lusky/sylar-master/CMakeFiles/test.dir
+/home/lusky/sylar-master/CMakeFiles/sylar.dir

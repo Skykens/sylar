@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib..a  CMakeFiles/..dir/config.cc.o CMakeFiles/..dir/env.cc.o CMakeFiles/..dir/log.cc.o CMakeFiles/..dir/mutex.cc.o CMakeFiles/..dir/thread.cc.o CMakeFiles/..dir/util.cc.o
+/usr/bin/ranlib lib..a

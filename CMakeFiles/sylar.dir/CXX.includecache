@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lusky/sylar-master/sylar/log.cc
+log.h
+/home/lusky/sylar-master/sylar/log.h
+map
+-
+iostream
+-
+functional
+-
+time.h
+-
+string.h
+-
+tuple
+-
+string
+-
+
+/home/lusky/sylar-master/sylar/log.h
+string
+-
+stdint.h
+-
+memory
+-
+fstream
+-
+sstream
+-
+list
+-
+vector
+-
+

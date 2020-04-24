@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -rdynamic -O0 -g -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function  -shared -Wl,-soname,libskylu.so -o /home/lusky/skylu-master/lib/libskylu.so CMakeFiles/skylu.dir/log.cc.o CMakeFiles/skylu.dir/env.cc.o CMakeFiles/skylu.dir/config.cc.o CMakeFiles/skylu.dir/mutex.cc.o CMakeFiles/skylu.dir/thread.cc.o CMakeFiles/skylu.dir/util.cc.o 

@@ -1,0 +1,3 @@
+/home/lusky/skylu-master/skylu/build/CMakeFiles/rebuild_cache.dir
+/home/lusky/skylu-master/skylu/build/CMakeFiles/edit_cache.dir
+/home/lusky/skylu-master/skylu/build/CMakeFiles/skylu.dir
